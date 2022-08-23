@@ -1,0 +1,13 @@
+.share-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.share-button-icon {
+  width: 30px;
+}
+
+.share-button-text {
+  font-size: 14px;
+}

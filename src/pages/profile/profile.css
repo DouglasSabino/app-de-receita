@@ -1,0 +1,33 @@
+.profile-page {
+  margin-top: 40px;
+  height: calc(100vh - 80px);
+  box-sizing: border-box;
+  padding: 100px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profile-page-email {
+  font-size: 24px;
+}
+
+.profile-page-link {
+  text-align: center;
+  width: 100%;
+}
+
+.profile-page-button {
+  align-items: center;
+  background-color: initial;
+  background-image: linear-gradient(#464D55, #25292E);
+  border-radius: 8px;
+  font-size: 16px;
+  border-width: 0;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) , 0 3px 6px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  color: white;
+  width: 90%;
+  height: 40px;
+}

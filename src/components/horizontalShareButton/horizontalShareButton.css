@@ -1,0 +1,9 @@
+.horizontal-share-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.horizontal-share-button-icon {
+  width: 24px;
+}

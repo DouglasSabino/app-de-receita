@@ -1,0 +1,11 @@
+.ingredient-list-item-done {
+  text-decoration: line-through;
+  list-style: none;
+  font-size: 20px;
+}
+
+.ingredient-list-item {
+  text-decoration: none solid black;
+  list-style: none;
+  font-size: 20px;
+}

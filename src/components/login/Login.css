@@ -1,0 +1,88 @@
+* {
+  font-variant: small-caps;
+  margin: 0;
+  padding: 0;
+}
+
+.LoginContainer {
+  align-items: center;
+  background-color: #e8e9eb;
+  background-image: linear-gradient(135deg, #e8e9eb 0%, #e0dfd5 100%);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.LoginContainer h1 {
+  padding: 15px;
+}
+
+.InputsContainer {
+  align-items: baseline;
+  background-color: white;
+  border: 0;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  outline: transparent;
+  padding: 15px;
+}
+
+.inputsSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.buttonLogin {
+  align-items: center;
+  background-color: initial;
+  background-image: linear-gradient(#464d55, #25292e);
+  border-radius: 8px;
+  border-width: 0;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) , 0 3px 6px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  display: inline-flex;
+  flex-direction: column;
+  font-size: 20px;
+  height: 52px;
+  justify-content: center;
+  line-height: 1;
+  margin-top: 20px;
+  outline: none;
+  overflow: hidden;
+  padding: 0 32px;
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transform: translate3d(0, 0, 0);
+  transition: all 150ms;
+  user-select: none;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.inputs input {
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.loginH4 {
+  margin-bottom: 10px;
+}
+
+.hatImg {
+  width: 155px;
+}

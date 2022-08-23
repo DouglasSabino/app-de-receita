@@ -1,0 +1,6 @@
+.exploreFoodsContainer {
+  align-items: center;
+  background-image: url('foods20.jpg');
+  display: flex;
+  height: 100vh;
+}

@@ -1,0 +1,6 @@
+.exploreDrinksContainer {
+  align-items: center;
+  background-image: url('drinks2-0.jpg');
+  display: flex;
+  height: 100vh;
+}

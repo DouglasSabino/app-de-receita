@@ -1,0 +1,9 @@
+.favorite-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.favorite-button-icon {
+  width: 30px;
+}

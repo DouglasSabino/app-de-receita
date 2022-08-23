@@ -1,0 +1,105 @@
+.done-recipes-main {
+  margin-top: 40px;
+}
+
+.done-recipes-filter-buttons {
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.done-recipes-filter-button {
+  width: 100px;
+  height: 30px;
+  background-color: initial;
+  background-image: linear-gradient(#464D55, #25292E);
+  border-radius: 8px;
+  font-size: 16px;
+  border-width: 0;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) , 0 3px 6px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  color: white;
+}
+
+.done-recipes-cards {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  flex-direction: column;
+}
+
+.done-recipes-card {
+  display: flex;
+  justify-content: space-between;
+  height: 150px;
+  max-width: 300px;
+  background-color: initial;
+  background-image: linear-gradient(#dbe1e7, #9c9c9c71);
+  box-shadow: 5px 5px 15px 4px rgba(0,0,0,0.28);
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+.done-recipes-card-content {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.done-recipes-card-image {
+  width: 150px;
+  height: auto;
+  border-radius: 8px 0 0 8px;
+}
+
+.done-recipes-card-title a {
+  text-decoration: none;
+}
+
+.done-recipes-card-title h1 {
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  margin: 0;
+}
+
+.done-recipes-card-title p {
+  font-size: 14px;
+  font-weight: 300;
+  color: black;
+  margin: 0;
+}
+
+.done-recipes-card-date {
+  display: flex;
+  justify-content: space-between;
+}
+
+.done-recipes-card-date p {
+  font-size: 14px;
+}
+
+.done-recipes-card-tags {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.done-recipes-card-tag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 65px;
+  height: 20px;
+  margin: 2px 2px;
+  font-weight: 600;
+  font-size: 9px;
+  background-color: initial;
+  background-image: linear-gradient(#464D55, #25292E);
+  border-radius: 8px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) , 0 3px 6px rgba(0, 0, 0, 0.05);
+  color: white;
+}

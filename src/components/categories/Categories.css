@@ -1,0 +1,27 @@
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  height: 80px;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.categories-button {
+  width: 100px;
+  height: 30px;
+  align-items: center;
+  background-color: initial;
+  background-image: linear-gradient(#464D55, #25292E);
+  border-radius: 8px;
+  font-size: 16px;
+  border-width: 0;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) , 0 3px 6px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  color: white;
+}
+
+.active {
+  background-image: linear-gradient(#585858a1, #a5a3a3);
+  color: #25292E;
+}

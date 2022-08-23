@@ -1,0 +1,23 @@
+.foodsIngredients-card {
+  height: 160px;
+  width: 45%;
+}
+
+.foodsCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px 5px;
+  padding: 15px 0;
+}
+
+.buttonFoodsIngredient {
+  background-color: transparent;
+  border: none;
+  height: 150px;
+  width: 150px;
+}
+
+.foodIngredientImg {
+  filter: drop-shadow(0 0 3px black);
+}

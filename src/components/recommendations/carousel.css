@@ -1,0 +1,34 @@
+.carousel {
+  align-self: center;
+  display: flex;
+  overflow-y: scroll;
+  width: 100vw;
+}
+
+.recommendation-card {
+  background-color: initial;
+  background-image: linear-gradient(#dbe1e7, #9c9c9c71);
+  width: 150px;
+  border-radius: 8px;
+  margin: 10px 15px;
+  box-shadow: 4px 4px 5px -2px rgba(0,0,0,0.45);
+}
+
+.recommendation-card-image {
+  width: 150px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 8px 8px 0 0;
+  }
+
+.recommendation-card-tile {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  margin-left: 8px;
+  padding: 14px 0;
+}
+
+.recommendation-card-tile p {
+  margin: 0;
+}

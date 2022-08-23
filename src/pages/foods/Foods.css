@@ -1,0 +1,9 @@
+.main-recipes {
+  margin: 40px 0;
+}
+
+.recipe-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
