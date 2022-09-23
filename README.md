@@ -3,7 +3,7 @@
 
 
 # Desenvolvedores
-Alan Souza: https://bityli.com/KKpbbjq <br>
+Alan Souza: https://www.linkedin.com/in/alansouza1/ <br>
 Fernando S.: https://bityli.com/IfLBFXI <br>
 Douglas Sabino: https://www.linkedin.com/in/douglas-sabino-733709204/
 
